@@ -216,3 +216,24 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Streamlit
+.streamlit/
+
+# Build files
+build/
+dist/
+
+# DPI output files
+dpi_engine/flows/*.csv
+*.pcap
+
+# Temporary files
+*.log
+*.tmp
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
